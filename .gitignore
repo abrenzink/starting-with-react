@@ -1,0 +1,6 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs do Node.js
+npm-debug.log
+yarn-error.log
